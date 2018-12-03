@@ -3434,3 +3434,11 @@ body.start .bottom-box:active {
 strong {
   font-weight: 500;
 }
+
+/* Additional rules */
+article > span.selectNumber{
+	font-size: 21.6px;
+	position: relative;
+	left: 10px;
+	top: 10px;
+}

@@ -11810,7 +11810,6 @@ body.bordsbokning #roheader-wrapper {
 .roTheme.roBB > section form {
   font-size: 12px;
   font-weight: 300;
-  color: #000;
 }
 
 @media (min-width: 768px) {
@@ -11937,7 +11936,7 @@ body.bordsbokning #roheader-wrapper {
   background-size: 21px 21px;
   background-repeat: no-repeat;
   background-position: 6px 16.8px;
-  background-image: url('../../img/robb_icons/red/seats.png');
+  background-image: url('../media/seats.png');
 }
 
 .roTheme.roBB > section.roBB-people #selectPeopleBox article > a {
@@ -11959,7 +11958,7 @@ body.bordsbokning #roheader-wrapper {
 .roTheme.roBB > section.roBB-people #selectPeopleBox article.selected {
   background-color: #ba0000;
   border-color: #ba0000;
-  background-image: url('../../img/robb_icons/red/seats-inverse.png');
+  background-image: url('../media/seats-inverse.png');
 }
 
 .roTheme.roBB > section.roBB-people #selectPeopleBox article.selected,
